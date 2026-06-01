@@ -1,0 +1,5 @@
+/Users/zawthanoo/dev/devops-apps/inventory-service/src/main/java/com/workshop/inventory/InventoryApplication.java
+/Users/zawthanoo/dev/devops-apps/inventory-service/src/main/java/com/workshop/inventory/controller/ProductController.java
+/Users/zawthanoo/dev/devops-apps/inventory-service/src/main/java/com/workshop/inventory/model/Product.java
+/Users/zawthanoo/dev/devops-apps/inventory-service/src/main/java/com/workshop/inventory/model/StockReduceRequest.java
+/Users/zawthanoo/dev/devops-apps/inventory-service/src/main/java/com/workshop/inventory/repository/ProductRepository.java

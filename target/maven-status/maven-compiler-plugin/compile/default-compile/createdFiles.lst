@@ -1,0 +1,6 @@
+com/workshop/inventory/repository/ProductRepository.class
+com/workshop/inventory/InventoryApplication.class
+com/workshop/inventory/model/StockReduceRequest$StockItem.class
+com/workshop/inventory/model/Product.class
+com/workshop/inventory/controller/ProductController.class
+com/workshop/inventory/model/StockReduceRequest.class
